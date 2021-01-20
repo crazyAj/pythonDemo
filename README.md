@@ -1,2 +1,0 @@
-# pythonDemo
-python demo
